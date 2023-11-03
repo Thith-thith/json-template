@@ -1,0 +1,31 @@
+{
+  "logo": "riverbase-2.png",
+  "menu": [
+    {
+      "title": "Frist",
+      "link": ""
+    },
+    {
+      "title": "Second",
+      "link": "",
+      "children": [
+        {
+          "title": "Frist Sub",
+          "link": ""
+        },
+        {
+          "title": "Second Sub",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Third",
+      "link": ""
+    }
+  ],
+  "buttons": {
+    "button1": "Button1",
+    "button2": "Button2"
+  }
+}
